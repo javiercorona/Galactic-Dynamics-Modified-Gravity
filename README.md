@@ -12,7 +12,12 @@ A dual-equation framework unifying:
 
 ### Equation 1: Galactic Debris Dynamics
 ```math
+
+
 \frac{d\sigma_r}{dt} = -\frac{GM_{\text{core}}}{r^2} + \frac{\Lambda(t) v_p^2}{\sqrt{r^2 + r_s^2}} + \zeta \frac{c_s^2}{r} - \eta \sigma_r^2
+
+
+
 ```
 
 ### Equation 2: Modified Gravity
