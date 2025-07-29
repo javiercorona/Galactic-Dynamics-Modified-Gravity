@@ -1,1 +1,58 @@
 
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb, geometry}
+\geometry{margin=1in}
+\title{Galactic Dynamics and Higher-Dimensional Gravity Framework}
+\author{Astrophysical Theoretical Research Group}
+\jul{\21}
+\begin{document}
+\justforfun
+
+\section*{Equation 1 --- Galactic Debris Dynamics}
+This equation models the radial velocity dispersion of stellar or gaseous debris influenced by gravitational, dark feedback, pressure, and drag terms:
+
+\[
+\frac{d\sigma_r}{dt} = 
+\underbrace{-\frac{GM_{\text{core}}}{r^2}}_{\substack{\text{Remnant gravity} \\ \text{(Central BH/compact object)}}} 
++ \underbrace{\frac{\Lambda(t) v_p^2}{\sqrt{r^2 + r_s^2}}}_{\substack{\text{Dark feedback} \\ \text{(DM/DE coupling)}}} 
++ \underbrace{\zeta \frac{c_s^2}{r}}_{\substack{\text{Pressure support} \\ \text{(Gas turbulence)}}} 
+- \underbrace{\eta \sigma_r^2}_{\substack{\text{Drag force} \\ \text{(Dynamical friction)}}}
+\]
+
+\subsection*{Key Parameters}
+\begin{itemize}
+    \item $r_s$: Schwarzschild radius, $r_s = \frac{2GM_{\text{core}}}{c^2}$
+    \item $\Lambda(t)$: Time-dependent dark sector coupling, $\Lambda(t) = \Lambda_0 e^{-t/\tau} + \Lambda_{\text{DM}} \rho_{\text{DM}}$
+    \item $\zeta$: Pressure efficiency, typically in range $[0.1, 1.0]$
+\end{itemize}
+
+\subsection*{Observational Signatures}
+\begin{itemize}
+    \item Anomalous stellar stream kinematics (e.g., Gaia DR4)
+    \item Non-Keplerian rotation in post-starburst galaxies (JWST/NIRSpec)
+\end{itemize}
+
+\section*{Equation 2 --- Modified Gravity with Exotic Sources}
+This Einstein field equation is modified to include higher-dimensional corrections and black hole formation via relativistic planetary collisions:
+
+\[
+G_{\mu\nu}^{(4)} + \kappa_{(4)}T_{\mu\nu}^{(4)} = 
+\underbrace{e^{-\beta\phi}\left[G_{AB}^{(D)}g^{AB}_{(4)} + \mathcal{F}_{\mu\nu}\right]}_{\substack{\text{Higher-D corrections} \\ \text{(Bulk spacetime curvature)}}} 
++ \underbrace{\Lambda\left(\sqrt{\frac{3}{8\pi}}\frac{\gamma(v)v^2r_p^2\rho_g}{Gc^2}\right)g_{\mu\nu}}_{\substack{\text{Exotic BH formation} \\ \text{(Relativistic collisions)}}}
+\]
+
+\subsection*{Novel Components}
+\begin{itemize}
+    \item $\mathcal{F}_{\mu\nu}$: Leakage tensor from higher-dimensional bulk gravity
+    \item $\gamma(v)$: Lorentz factor, $\gamma(v) = (1 - v^2/c^2)^{-1/2}$
+    \item Critical velocity threshold: $v > 0.6c$ required for BH formation
+\end{itemize}
+
+\subsection*{Experimental Probes}
+\begin{itemize}
+    \item Sub-solar mass BH detection (Einstein Telescope)
+    \item Gravitational wave echo signatures (LIGO O4)
+\end{itemize}
+
+\end{document}
+
