@@ -1,16 +1,9 @@
-```markdown
-# Unified Astrophysical Framework: Galactic Dynamics & Modified Gravity
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-230X.XXXXX-b31b1b.svg)](https://arxiv.org/abs/230X.XXXXX)
-
-A dual-equation framework unifying:
-1. **Galactic debris dynamics** with dark feedback
-2. **Modified gravity** with higher-dimensional BHs and exotic formation channels
 
 ## 🔷 Core Equations
 
 ### Equation 1: Galactic Debris Dynamics
+
 ```math
 
 
