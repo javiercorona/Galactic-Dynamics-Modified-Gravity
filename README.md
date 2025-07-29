@@ -1,6 +1,5 @@
 ```markdown
 # Unified Astrophysical Framework: Galactic Dynamics & Modified Gravity
-![image](https://github.com/user-attachments/assets/3b260c06-efc2-4c9d-b22f-e41ae82c0fd1)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-230X.XXXXX-b31b1b.svg)](https://arxiv.org/abs/230X.XXXXX)
