@@ -1,0 +1,33 @@
+ #### 🔷 Equation 1 — Galactic Debris Dynamics
+\[
+\frac{d\sigma_r}{dt} = 
+\underbrace{-\frac{GM_{\text{core}}}{r^2}}_{\substack{\text{Remnant gravity} \\ \text{(Central BH/compact object)}}} 
++ \underbrace{\frac{\Lambda(t) v_p^2}{\sqrt{r^2 + r_s^2}}}_{\substack{\text{Dark feedback} \\ \text{(DM/DE coupling)}}} 
++ \underbrace{\zeta \frac{c_s^2}{r}}_{\substack{\text{Pressure support} \\ \text{(Gas turbulence)}}} 
+- \underbrace{\eta \sigma_r^2}_{\substack{\text{Drag force} \\ \text{(Dynamical friction)}}}
+\]
+
+**Key Parameters:**
+- \( r_s \): Schwarzschild radius (\(2GM_{\text{core}}/c^2\))
+- \( \Lambda(t) \): Time-dependent dark sector coupling (\(\Lambda_0 e^{-t/\tau} + \Lambda_{\text{DM}}\rho_{\text{DM}}\))
+- \( \zeta \): Pressure efficiency (0.1-1 for typical ISM)
+
+**Observational Signatures:**
+- Anomalous stellar stream kinematics (Gaia DR4)
+- Non-Keplerian rotation in post-starburst galaxies (JWST/NIRSpec)
+
+#### 🔷 Equation 2 — Modified Gravity with Exotic Sources
+\[
+G_{\mu\nu}^{(4)} + \kappa_{(4)}T_{\mu\nu}^{(4)} = 
+\underbrace{e^{-\beta\phi}\left[G_{AB}^{(D)}g^{AB}_{(4)} + \mathcal{F}_{\mu\nu}\right]}_{\substack{\text{Higher-D corrections} \\ \text{(Bulk spacetime curvature)}}} 
++ \underbrace{\Lambda\left(\sqrt{\frac{3}{8\pi}}\frac{\gamma(v)v^2r_p^2\rho_g}{Gc^2}\right)g_{\mu\nu}}_{\substack{\text{Exotic BH formation} \\ \text{(Relativistic collisions)}}}
+\]
+
+**Novel Components:**
+- \( \mathcal{F}_{\mu\nu} \): Bulk-to-brane gravity leakage (string theory motivated)
+- \( \gamma(v) \): Lorentz factor (\((1-v^2/c^2)^{-1/2}\))
+- Critical velocity threshold: \( v > 0.6c \) for BH formation
+
+**Experimental Probes:**
+- Sub-solar mass BH searches (Einstein Telescope)
+- Gravitational wave echo detection (LIGO O4)
