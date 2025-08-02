@@ -18,6 +18,13 @@
 G_{\mu\nu}^{(4)} + \kappa_{(4)}T_{\mu\nu}^{(4)} = e^{-\beta\phi}\left[G_{AB}^{(D)}g^{AB}_{(4)} + \mathcal{F}_{\mu\nu}\right] + \Lambda\left(\sqrt{\frac{3}{8\pi}}\frac{\gamma(v)v^2r_p^2\rho_g}{Gc^2}\right)g_{\mu\nu}
 ```
 
+            equation v3
+
+  ![image](https://github.com/user-attachments/assets/6640b8b1-dcd6-4f0e-a124-61e7394591e9)
+          
+
+
+   
 ## 📦 Installation (For Simulation Code)
 ```bash
 git clone https://github.com/yourusername/unified-astrophysics.git
