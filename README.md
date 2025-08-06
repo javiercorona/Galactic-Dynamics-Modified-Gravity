@@ -32,7 +32,16 @@ where:
 - **Bulk Coupling**: \(e^{-\beta\phi} G_{AB}^{(D)}\) from higher dimensions.  
 
 ---
-   
+           anoroc v5
+
+ \[
+   M_{\mu\nu} = G_{\mu\nu} \cdot \chi B_{\mu\lambda} \cdot B^\lambda_\nu + \eta_{\mu\nu} \nabla_\mu \nabla_\nu \Phi
+   \]
+
+
+
+
+           
 ## 📦 Installation (For Simulation Code)
 ```bash
 git clone https://github.com/yourusername/unified-astrophysics.git
