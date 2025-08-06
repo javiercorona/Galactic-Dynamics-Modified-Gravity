@@ -21,9 +21,17 @@ G_{\mu\nu}^{(4)} + \kappa_{(4)}T_{\mu\nu}^{(4)} = e^{-\beta\phi}\left[G_{AB}^{(D
             equation v3
 
   ![image](https://github.com/user-attachments/assets/6640b8b1-dcd6-4f0e-a124-61e7394591e9)
-          
+         anoroc v4 
 
+Modified Gravity (Equation 2)**:  
+The stress-energy tensor could describe the bubble’s membrane:  
+\[ G_{\mu\nu}^{(4)} = \text{Tension}_{\mu\nu} + \text{Flux}_{\mu\nu} + \text{Bulk Coupling}_{\mu\nu}, \]  
+where:  
+- **Tension**: \(S \cdot h_{\mu\nu}\) (induced metric on the bubble).  
+- **Flux**: \(F_{\mu\nu}\) from fields confined to the surface.  
+- **Bulk Coupling**: \(e^{-\beta\phi} G_{AB}^{(D)}\) from higher dimensions.  
 
+---
    
 ## 📦 Installation (For Simulation Code)
 ```bash
