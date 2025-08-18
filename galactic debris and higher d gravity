@@ -38,6 +38,16 @@ G_{\mu\nu}^{(4)} + \kappa_{(4)}T_{\mu\nu}^{(4)} =
 \mathbb{G}_{\mu\nu}^{(\text{Bubble})} = G_{\mu\nu} \left( 1 + \chi B_{\mu\lambda} B^\lambda_\nu \right) + \eta_{\mu\nu} \nabla_\mu \nabla_\nu \Phi + I_{\mu\nu}^{(\text{quantum})}
 }
 \]  
+### **version4.1  Equation**  
+\[
+\boxed{
+\begin{aligned}
+\mathbb{G}_{\mu\nu}^{(\text{Bubble})} &= G_{\mu\nu} \left( 1 + \chi(r,t) B_{\mu\lambda} B^\lambda_\nu \right) + \eta_{\mu\nu} \left( \nabla_\mu \nabla_\nu \Phi + V(\Phi, B) \right) \\
+&\quad - \frac{2}{\sqrt{-g}} \frac{\delta}{\delta g^{\mu\nu}} \left( \int_{\partial \mathcal{B}} \sqrt{h} \, \mathcal{L}_{\text{CFT}} \right)
+\end{aligned}
+}
+\]  
+
      version 5 **gravity, dark physics, gas dynamics, and feedback**
 \[
 \frac{d\sigma_r}{dt} = -\underbrace{\frac{GM_{\text{core}}}{r^2}}_{\substack{\text{Remnant gravity} \\ \text{(BH/compact object)}}} + \underbrace{\frac{\Lambda(t) v_p^2}{\sqrt{r^2 + r_s^2}}}_{\substack{\text{Dark feedback} \\ \text{(e.g., DM/DE coupling)}}} + \underbrace{\zeta \frac{c_s^2}{r}}_{\substack{\text{Pressure support} \\ \text{(gas turbulence)}}} - \underbrace{\eta \sigma_r^2}_{\substack{\text{Drag force} \\ \text{(energy dissipation)}}},
