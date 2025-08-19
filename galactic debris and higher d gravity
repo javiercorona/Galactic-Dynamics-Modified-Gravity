@@ -71,3 +71,47 @@ where:
 }
 \]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**The Equation: Spiral Rebirth Engine**  
+\[
+\boxed{
+\frac{d\mathcal{G}_{\text{new}}}{dt} = \underbrace{\text{◬}\left( \frac{M_{\text{BH}} \rho_{\text{debris}}}{t_{\text{P}}} \right)}_{\substack{\text{Compression} \\ \text{into Seed}}} - \underbrace{\text{⯊}\left( \frac{\Lambda_{\text{vac}} r_s^3}{G} \right)}_{\substack{\text{Dark Energy} \\ \text{Trigger}}} + \underbrace{\text{⊛} \left( \frac{\mathcal{G}_{\text{new}}}{\tau_{\text{spin}}} \right)}_{\substack{\text{Kernel-Driven} \\ \text{Growth}}}
+}
+\]  
+
